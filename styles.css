@@ -1,0 +1,54 @@
+html {
+  background-color: white;
+}
+
+body {
+  background-color: #e4e5e2;
+  border: 2px solid #e4e5e2;
+  border-radius: 5px;
+  margin: 15px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+p {
+  text-align: center;
+}
+
+.img-div {
+  text-align: center;
+  background-color: white;
+}
+
+h2 {
+  text-align: center;
+}
+
+#image{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+}
+
+figcaption {
+  font-size: 14px;
+  padding-bottom: 10px;
+}
+
+ul > li {
+  margin: 10px auto;
+}
+
+#india {
+  text-align: center;
+}
+
+footer {
+  padding-bottom: 10px;
+}
